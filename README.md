@@ -20,15 +20,18 @@ A simple calculator application built with React.js to perform basic arithmetic 
     .Perform addition, subtraction, multiplication, and division.
    
     .User-friendly and responsive design.
+   
     .Real-time result display
    
 6. **Technologies Used**:
    
     .React.js
+   
     .JavaScript
+   
     .CSS
    
-7. **License**:
+8. **License**:
    
 This project is licensed under the MIT License.
 Copiez et collez ce fichier `README.md` dans la racine de votre projet pour l'utiliser immédiatement. Assurez-vous de remplacer l'URL du dépôt par celle de votre propre projet.
