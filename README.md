@@ -12,9 +12,9 @@ A simple calculator application built with React.js to perform basic arithmetic 
    ```bash
      npm install
 3. **Run the app**:
-   ```bash
+    ```bash
      npm start
- Open http://localhost:3000 to use the app in your browser.
+     Open http://localhost:3000 to use the app in your browser.
 4. **Features**:
     .Perform addition, subtraction, multiplication, and division.
     .User-friendly and responsive design.
