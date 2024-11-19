@@ -18,6 +18,7 @@ A simple calculator application built with React.js to perform basic arithmetic 
 4. **Features**:
    
     .Perform addition, subtraction, multiplication, and division.
+   
     .User-friendly and responsive design.
     .Real-time result display
    
