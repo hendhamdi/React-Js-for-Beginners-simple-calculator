@@ -31,7 +31,4 @@ A simple calculator application built with React.js to perform basic arithmetic 
    
     .CSS
    
-8. **License**:
-   
-This project is licensed under the MIT License.
-Copiez et collez ce fichier `README.md` dans la racine de votre projet pour l'utiliser immédiatement. Assurez-vous de remplacer l'URL du dépôt par celle de votre propre projet.
+
